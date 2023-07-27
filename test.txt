@@ -3,3 +3,7 @@ message test 27 07 2023
 modification 14:56 en local
 
 deuxième modificaion local 14:58 
+
+git remote add origin ....lien....
+
+git push -u origin master 
